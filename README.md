@@ -20,7 +20,7 @@ List of cool python libraries, articles, profiles, solutions, products and other
 * [Gradient](https://www.paperspace.com/gradient/notebooks) - notebook environment for running ML
 * [Iterative](https://github.com/iterative)
 * [PyCaret](https://github.com/pycaret/pycaret) - open-source, low-code machine learning library in Python that automates machine learning workflows
-* [tf_slim](https://github.com/google-research/tf-slim) - tool for simplifying ML processes
+* [Tf_slim](https://github.com/google-research/tf-slim) - tool for simplifying ML processes
 * [Jina](https://github.com/jina-ai/) - MLops platform
 * [Tfx](https://github.com/iterative/awesome-iterative-projects) - configuration framework to express ML pipelines consisting of TFX components
 * [Awesome ML tools list](https://github.com/J-cabin/Awesome-ML-Tools) - as the name suggest
@@ -34,7 +34,6 @@ List of cool python libraries, articles, profiles, solutions, products and other
 * [GridAi](https://www.grid.ai/) - Developing and training deep learning models at scale
 * [Neptune](https://neptune.ai/) - for ML metadata 
 * [PostgresML](https://github.com/postgresml/postgresml) - extension for postgres for ML
-* 
 
 
 ## Educational
@@ -46,7 +45,7 @@ List of cool python libraries, articles, profiles, solutions, products and other
 * [Awesome-python](https://github.com/krzjoa/awesome-python-data-science#readme)
 * [Homemade ML](https://github.com/trekhleb/homemade-machine-learning) - really cool ML models for starting to learn 
 * [Homemade experiments](https://github.com/trekhleb/machine-learning-experiments)
-* [dstill](https://distill.pub/2020/grand-tour/) - visualisation of 10-dimensional layer of a neural network
+* [Dstill](https://distill.pub/2020/grand-tour/) - visualisation of 10-dimensional layer of a neural network
 
 
 
@@ -58,7 +57,7 @@ List of cool python libraries, articles, profiles, solutions, products and other
 * [Qdrant](https://github.com/qdrant/qdrant) - Vector Search Engine built on Rust
 * [Open metadata](https://open-metadata.org/) - metadata management platform
 * [Surrealdb](https://surrealdb.com/) - innovative NewSQL cloud database
-* 
+
 
 ## Other
 * [Sketch-code](https://github.com/ashnkumar/sketch-code) - Create web from a sketch
@@ -66,4 +65,3 @@ List of cool python libraries, articles, profiles, solutions, products and other
 * [Gac](https://github.com/devpolo/gac) - customize git commands
 * [Dashy](https://github.com/Lissy93/dashy) - A self-hostable personal dashboard 
 * [Numerai](https://numer.ai/) - competition 
-* 
