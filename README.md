@@ -48,7 +48,6 @@ List of cool python libraries, articles, profiles, solutions, products and other
 * [Dstill](https://distill.pub/2020/grand-tour/) - visualisation of 10-dimensional layer of a neural network
 
 
-
 ## Data
 
 ### Data and databases related topics 
@@ -58,10 +57,9 @@ List of cool python libraries, articles, profiles, solutions, products and other
 * [Open metadata](https://open-metadata.org/) - metadata management platform
 * [Surrealdb](https://surrealdb.com/) - innovative NewSQL cloud database
 
-
 ## Other
 * [Sketch-code](https://github.com/ashnkumar/sketch-code) - Create web from a sketch
 * [Quantum computing](	https://quantum.country/) - nice introductions to quantum computing
 * [Gac](https://github.com/devpolo/gac) - customize git commands
 * [Dashy](https://github.com/Lissy93/dashy) - A self-hostable personal dashboard 
-* [Numerai](https://numer.ai/) - competition 
+* [Numerai](https://numer.ai/) - competition
